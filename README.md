@@ -28,4 +28,8 @@ app.use('top', function(req, res) {
 app.run([]);
 ```
 
+## License
+
+[ISC License][https://github.com/jeremyruppel/hoagie-exec/blob/master/LICENSE]
+
 [1]: https://github.com/jprichardson/node-kexec

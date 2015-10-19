@@ -2,6 +2,8 @@
 
 Make your hoagie program exec to another process
 
+[![Build Status](https://travis-ci.org/jeremyruppel/hoagie-exec.svg?branch=v1.0.1)](https://travis-ci.org/jeremyruppel/hoagie-exec)
+
 # Install
 
 ```

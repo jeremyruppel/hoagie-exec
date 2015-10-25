@@ -1,6 +1,6 @@
 {
   "name": "hoagie-exec",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make your hoagie program exec to another process",
   "main": "index.js",
   "scripts": {
